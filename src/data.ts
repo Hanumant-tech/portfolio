@@ -11,7 +11,7 @@ export const profile = {
   linkedin: "https://www.linkedin.com/in/hanumantkshirsagar/",
   email: "kshirsagarhanumant388@gmail.com",
   phone: "+91 95296 31909",
-  resume: "/hanumant_CS_resume.pdf",
+  resume: "\hanumant_kshirsagar_resume_01.pdf",
   photo: "/images/profile-photo.jpg", // falls back to initials if missing
 };
 
